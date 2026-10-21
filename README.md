@@ -57,3 +57,4 @@ curl -fsSL https://raw.githubusercontent.com/Kmassidik/Shinrai/main/install.sh |
 ```bash
 cargo test
 ```
+# Shinrai
